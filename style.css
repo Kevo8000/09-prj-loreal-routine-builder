@@ -293,7 +293,7 @@ body {
   font-size: 18px;
   font-weight: 500;
   color: #fff;
-  background: #000;
+  background: #e3a535;
   border: none;
   border-radius: 8px;
   cursor: pointer;
@@ -301,7 +301,7 @@ body {
 }
 
 .generate-btn:hover {
-  background: #666;
+  background: #c88a2b;
 }
 
 .generate-btn i {
